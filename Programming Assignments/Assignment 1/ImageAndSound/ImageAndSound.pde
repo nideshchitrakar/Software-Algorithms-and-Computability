@@ -15,8 +15,8 @@ SoundFile nameFile;
 
 void setup() {
   size(480,640);
-  myImg = loadImage("img1.png");  // loading the image file as myImg
-  nameFile = new SoundFile(this, "name.mp3");  // loading the sound file as nameFile
+  myImg = loadImage("NideshChitrakar.png");  // loading the image file as myImg
+  nameFile = new SoundFile(this, "NideshChitrakar.mp3");  // loading the sound file as nameFile
 }
 
 void draw() {
